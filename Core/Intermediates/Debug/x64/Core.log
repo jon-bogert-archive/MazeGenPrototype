@@ -1,0 +1,7 @@
+﻿  Application.cpp
+  CoreBuilder.cpp
+  Maze.cpp
+D:\repos\C++\MazeGenPrototype\Core\Source\Maze.cpp(55,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\repos\C++\MazeGenPrototype\Core\Source\Maze.cpp(209): warning C4715: '`Maze::Generate'::`2'::Corridor::CheckValid': not all control paths return a value
+  Core.vcxproj -> D:\repos\C++\MazeGenPrototype\Build\Debug\x64\Core.exe
